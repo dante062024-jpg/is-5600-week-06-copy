@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Sunset Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "Beautiful sunset."
+  },
+  {
+    "id": 2,
+    "title": "Ocean Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "Calm ocean."
+  },
+  {
+    "id": 3,
+    "title": "Mountain Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "Snowy mountain."
+  },
+  {
+    "id": 4,
+    "title": "Forest Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "Green forest."
+  },
+  {
+    "id": 5,
+    "title": "City Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "City skyline."
+  },
+  {
+    "id": 6,
+    "title": "Desert Print",
+    "image": "https://via.placeholder.com/300",
+    "description": "Hot desert."
+  },
+  {
+    "id": 7,
+    "title": "Night Sky",
+    "image": "https://via.placeholder.com/300",
+    "description": "Stars above."
+  }
+]
